@@ -5,7 +5,7 @@ $contatos = new Contatos();
 <!DOCTYPE html>
 <html>
     <head>
-        <title>CRUD</title>
+        <title>CRUD Operacoes via modal</title>
         <link rel="stylesheet" href="assets/css/estilo.css"/>
         <script type="text/javascript" src="assets/js/jquery-3.3.1.min.js"></script>
         <script type="text/javascript" src="assets/js/script.js"></script>
